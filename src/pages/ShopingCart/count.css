@@ -1,0 +1,45 @@
+
+.container {
+    padding: auto;
+    height: max-content;
+    width: 100%;
+    background-color: aquamarine;
+    text-align: center;
+    margin: 20px;
+}
+.table {
+    border: 1px solid gray;
+    margin-left: 18%;
+    text-align: center;
+}
+table, td, th{
+    border: 1px solid;
+    padding: 10px;
+}
+thead {
+    background-color: beige;
+    padding: 10px;
+}
+tr{
+    margin: 100px;
+}
+ th {
+    margin: 30px;
+}
+.tablerow{
+    margin: 20px;
+    font-size: 30px;
+}
+.btn {
+margin-left: 10px;
+font-size: 20px;
+}
+.total {
+    border: 1px solid blue;
+    padding: 10px;
+    border-radius: 10px;
+    width: 60px;
+    margin-left: 50%;
+    text-align: center;
+
+}

@@ -1,24 +1,18 @@
-import logo from './logo.svg';
 import './App.css';
-
+import Calculator from './pages/Calculateor/Calculator';
+// import Todos from './pages/Todo/Todos';
+// import Count from './pages/ShopingCart/Count';
+// import SingUp from './pages/simpleForm/SingUp';
+// import FormValidation from './pages/FormValidation/FormValidation';
+// import DinamicForm from './pages/DinamicForm/DinamicForm';
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+  //  <SingUp/>
+  //  <FormValidation/>
+  // <DinamicForm/>
+  // <Count/>
+  // <Todos/>
+  <Calculator/>
   );
 }
 
